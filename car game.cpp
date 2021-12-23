@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Gurpreet-Singh121 
-AngularsCoding
-/
-Car-Game
-Public
-Code
-Issues
-1
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Car-Game/car game.cpp
-@AngularsCoding
-AngularsCoding Add files via upload
-Latest commit 9d7a1d2 on 1 Mar
- History
- 1 contributor
-225 lines (199 sloc)  4.82 KB
    
 #include<iostream>
 #include<conio.h>
@@ -252,16 +224,3 @@ int main()
 	
 	return 0;
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
